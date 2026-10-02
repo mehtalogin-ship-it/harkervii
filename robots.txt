@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://harkervii.com/sitemap.xml
